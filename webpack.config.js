@@ -6,11 +6,6 @@ module.exports = {
   entry: {
     index: "./src/index.js",
   },
-  devtool: "inline-source-map",
-  output: {
-    filename: "[name].bundle.js",
-    path: path.resolve(__dirname, "dist"),
-  },
   devServer: {
     static: "./dist",
   },
@@ -19,6 +14,10 @@ module.exports = {
       template: "./src/index.html",
     }),
   ],
+  output: {
+    filename: "[name].bundle.js",
+    path: path.resolve(__dirname, "dist"),
+  },
   optimization: {
     runtimeChunk: "single",
   },

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
+  "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
     "start": "webpack serve --open"
