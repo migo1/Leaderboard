@@ -1,10 +1,7 @@
 import "./style.css";
 import resetForm from "./module/resetForm.js";
-// import gameId from "./module/gameId.js";
 
 const key = "MfujXl6jxDd6wIDe9hiA";
-// const url =
-//   "https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/MfujXl6jxDd6wIDe9hiA/scores/";
 
 const fetchScores = async () => {
   const res = await fetch(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${key}/scores/`);
@@ -53,4 +50,3 @@ const refreshButton = document.getElementById("refresh");
 refreshButton.addEventListener("click", displayLeaderboard);
 
 displayLeaderboard();
-// gameId();
