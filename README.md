@@ -58,7 +58,7 @@
 
 ### Live Demo 🚀 <a name="live-demo"></a>
 
-- <a href="#">Comming soon</a>
+- <a href="https://migo1.github.io/Leaderboard/dist/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
