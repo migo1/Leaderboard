@@ -52,7 +52,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Fast and Optimized by Webpack**
+- **POST request via API plus asyncronous code**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
