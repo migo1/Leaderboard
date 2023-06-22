@@ -30,9 +30,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Webpack To Do List - Microverse Project <a name="about-project"></a>
+# 📖 Leaderboard API - Microverse Project <a name="about-project"></a>
 
-**Webpack To Do List** is a milestone project for microverse student in JavaScript Module to learn about Webpack and ES6
+**Leaderboard API** is a milestone project for microverse student in JavaScript Module to learn hitting the API amd writing asyncronous code
 
 ## 🛠 Built With <a name="built-with"></a>
 
