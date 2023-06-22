@@ -40,7 +40,7 @@ const displayLeaderboard = () => {
       if (index % 2 !== 0) {
         li.classList.add("darker");
       }
-      li.innerHTML = `${leadBoard.user} : ${leadBoard.score}`;
+      li.innerHTML = `${index + 1}. ${leadBoard.user} : ${leadBoard.score}`;
       leaderboard.appendChild(li);
     });
   });
