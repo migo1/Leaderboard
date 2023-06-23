@@ -30,9 +30,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Webpack To Do List - Microverse Project <a name="about-project"></a>
+# 📖 Leaderboard API - Microverse Project <a name="about-project"></a>
 
-**Webpack To Do List** is a milestone project for microverse student in JavaScript Module to learn about Webpack and ES6
+**Leaderboard API** is a milestone project for microverse student in JavaScript Module to learn hitting the API amd writing asyncronous code
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,13 +52,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Fast and Optimized by Webpack**
+- **POST request via API plus asyncronous code**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Demo 🚀 <a name="live-demo"></a>
 
-- <a href="#">Comming soon</a>
+- <a href="https://migo1.github.io/Leaderboard/dist/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
